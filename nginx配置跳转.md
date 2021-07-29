@@ -3,7 +3,7 @@
 访问
 
 ```html
-https://apis.ubtrobot.com/v2/collect-rest/sign?appId=100010011&deviceId=TestUBT001
+https://xxxx.xxxxx.com/v2/collect-rest/sign?appId=100010011&deviceId=TestUBT001
 ```
 
 
